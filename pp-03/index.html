@@ -11,22 +11,23 @@
 <form action="#null" method="get">
 	<h2>PP Mailing List</h2>
 	<p>Sign up to join the ITMD 362 class pp list. We just need you're email, phone number and date of birth.</p>
-	<ol>
+	<ul>
 	<li id="input_name">
 		<label for="email">Email:</label>
 		<input type="email" name="Email" id="email" placeholder="you@example.com" pattern="^.+@.+$" />
 	</li>
   <li id="input_phone">
     <label for="phone">Phone Number:</label>
-    <input type="number" inputmode="number" placeholder="5417543010" pattern="[0-9]" name="Phone" id="phone">
+    <input type="tel" inputmode="number" placeholder="541-754-3010" name="Phone" id="phone">
   </li>
   <li id="input_dob">
-    <label></label>
+    <label for="dob">Date of Birth:</label>
+    <input type="number" name="DoB" id="dob" placeholder="02/12/17" pattern="^\d\d/\d\d/\d\d">
   </li>
   <li id="input-submit">
     <input type="submit" name="submit" value="Submit"/>
   </li>
-	</ol>
+	</ul>
 </form>
 </body>
 </html>
