@@ -188,13 +188,13 @@ textarea {
 */
 
 html {
-  font-size: 1.333em;
-  line-height: 1.5996em;
+  font-size: 1.333em;/*23.994px*/
+  line-height: 1.6111em;/*18*1.2*/
 }
 
 h1 {
   font-size: 2.369em;
-  line-height: 3.1992em;
+  line-height: 1.63248em;
 }
 /* ===== RESPONSIVE MEDIA ===== */
 
@@ -213,5 +213,17 @@ input {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+
+#email {
+  padding-top: .2em;
+}
+
+#phone {
+  padding-top: .2em;
+}
+
+#input-submit {
+  padding-top: 1.4em;
 }
 /* ===== STATE STYLES ===== */
