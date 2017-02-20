@@ -9,10 +9,8 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* begin normalize.css form styles */
 /* https://github.com/necolas/normalize.css */
 
-
 /* Forms
    ========================================================================== */
-
 /**
  * 1. Change the font styles in all browsers (opinionated).
  * 2. Remove the margin in Firefox and Safari.
@@ -200,19 +198,19 @@ h1 {
 }
 
 p {
-  padding-bottom: .7em;
+  padding-bottom: 0.7em;
 }
 
 input[type="submit"] {
   color: white;
   background-color: black;
-  border: .02em solid black; 
+  border: 0.02em solid black;
   text-align: center;
 }
 
 input {
   background-color: #efdd6f;
-  border: .05em solid black;
+  border: 0.05em solid black;
 }
 
 /* ===== RESPONSIVE MEDIA ===== */
@@ -228,8 +226,9 @@ input {
 /* ===== MODULAR STYLES ===== */
 
 /*====== Forms ========== */
-label{
-  display: inline-block;;
+
+label {
+  display: inline-block;
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
@@ -239,7 +238,7 @@ label{
 }
 
 input {
-  display: inline-block;;
+  display: inline-block;
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
@@ -265,27 +264,28 @@ li {
     padding: 0;
   }
 
-  #input_dob {
-    padding-top: .7em;
+  #input-dob {
+    padding-top: 0.7em;
   }
 
-  #input_phone {
+  #input-phone {
     padding-top: 1em;
   }
 
   #email {
-    margin-left: 2em; 
+    margin-left: 2em;
   }
-  
+
   #phone {
     margin-left: 2em;
     width: 12em;
-}
+  }
 
   #dob {
     margin-left: 2em;
   }
 
   #input-submit {
-    padding-top: .6em;
+    padding-top: 0.6em;
   }
+}
