@@ -190,22 +190,45 @@ textarea {
 html {
   font-size: 1.333em;/*23.994px*/
   line-height: 1.6111em;/*18*1.2*/
+  border-top: 3em solid #3a3232;
+  background-color: #91dabd;
 }
 
 h1 {
   font-size: 2.369em;
   line-height: 1.63248em;
 }
+
+p {
+  padding-bottom: .7em;
+}
+
+input[type="submit"] {
+  color: white;
+  background-color: black;
+  border: .02em solid black; 
+  text-align: center;
+}
+
+input {
+  background-color: #efdd6f;
+  border: .05em solid black;
+}
+
 /* ===== RESPONSIVE MEDIA ===== */
 
 /* ===== LAYOUT STYLES ===== */
 
+#border {
+  border: solid black;
+  text-align: center;
+  background-color: white;
+}
 
 /* ===== MODULAR STYLES ===== */
 
 /*====== Forms ========== */
-label,
-input {
+label{
   display: inline-block;;
   font-family: inherit;
   font-size: inherit;
@@ -215,15 +238,54 @@ input {
   box-sizing: border-box;
 }
 
-#email {
-  padding-top: .2em;
+input {
+  display: inline-block;;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  width: auto;
+  height: 1.4em;
 }
 
-#phone {
-  padding-top: .2em;
+li {
+  padding-bottom: 1.2em;
 }
 
-#input-submit {
-  padding-top: 1.4em;
-}
 /* ===== STATE STYLES ===== */
+@media screen and (min-width: 320px) { /*320px*/
+
+  p {
+    padding-bottom: 1.7em;
+  }
+
+  li {
+    padding: 0;
+  }
+
+  #input_dob {
+    padding-top: .7em;
+  }
+
+  #input_phone {
+    padding-top: 1em;
+  }
+
+  #email {
+    margin-left: 2em; 
+  }
+  
+  #phone {
+    margin-left: 2em;
+    width: 12em;
+}
+
+  #dob {
+    margin-left: 2em;
+  }
+
+  #input-submit {
+    padding-top: .6em;
+  }
