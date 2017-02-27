@@ -197,7 +197,8 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
   background-color: #ffeead;
-
+  text-align: center;
+  font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
 }
 
 h1 {
