@@ -196,11 +196,39 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+ 
+}
+
+h1 {
+  font-size: 1.667em;/* 36.674px / 22px*/
+  line-height: 1.418em;/*26*2=52px/36.674px*/
+  padding-bottom: 0.709em;
+}
+
+p,
+li {
+    padding-bottom: 1.182em;
 }
 
 label {
-  display: block;
+  display: inline;
+} 
+
+input {
+  display: inline-block;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  padding: 0;
+  margin: 0;
+  border-radius: 0;
+  box-sizing: border-box;
+  border: 0;
+
+  vertical-align: middle;
 }
+
+
 
 /* ===== LAYOUT STYLES ====== */
 
