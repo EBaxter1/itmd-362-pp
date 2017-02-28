@@ -18,8 +18,8 @@ Your Rationale: I picked green as my main color because most of the colors at th
 
 3. A triadic color palette for styling the login page for a private messaging app
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=3340c1kqddl00++8Pvwbu8El0hukohG7qLUQlel+tr9h++vDkohG700++XW++tr9h++vD
+Your Rationale:My messaging app would be call carrier pigeon so I did gray for the body and orange for the feet. Lastly the red and white were for the colored feathers.
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
