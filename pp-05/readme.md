@@ -23,6 +23,6 @@ Your Rationale:My messaging app would be call carrier pigeon so I did gray for t
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=50f0g0kukbV9Naxaj0Y1aR4FKoa
+Your Rationale: I would use a train logo as a cute funny way to advertise so I used lots of orange,tan and brown to ba a more old time train with a little black and gray for tracks
 
