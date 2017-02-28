@@ -8,8 +8,8 @@ Opt for the Paletton Preview mode Default with Text; you can start at this URL i
 
 1. An adjacent color palette for introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=14e0u0kic003J++4VhICW++++7l
+Your Rationale: My choice is based on Playstation, their newest console used black for the body and blue for lights. I followed that but added some gray which would be for some stripes of color and also a little darker blue which would be for another mode.  
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
