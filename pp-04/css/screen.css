@@ -214,6 +214,8 @@ li {
 
 label {
   display: inline;
+  font-family: 'Droid Serif';
+
 } 
 
 input {
@@ -235,6 +237,7 @@ input {
   color: white;
   padding-right: 10px;
   padding-left: 10px;
+  font-family: 'Muli';
 }
 
 /* ===== LAYOUT STYLES ====== */
@@ -243,3 +246,6 @@ input {
 
 /* ===== STATE STYLES ======= */
 
+@font-face {
+
+}
