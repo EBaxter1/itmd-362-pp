@@ -13,8 +13,8 @@ Your Rationale: My choice is based on Playstation, their newest console used bla
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=32-0q0kohG700++lel+tr9h++vD
+Your Rationale: I picked green as my main color because most of the colors at the garden I feel will be green. The purples and reds are because they are common flower colors.
 
 3. A triadic color palette for styling the login page for a private messaging app
 
