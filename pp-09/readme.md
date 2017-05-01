@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1.http://drpete.co/?topic=25-point-website-usability-checklist
+2.https://internetdevels.com/blog/50-point-checklist-for-website-usability-testing
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Easy to read text 
+2. Touch friendly inputs
+3. Simple but eye catching logos 
+4. Hearing/sight impired backups such as menus being read after the page title
+5. Clear error messages 
+6. Direct title names, such as Log-in Page, Course Informaiton
+7. Having the least amount of redircts possible, i.e not having a different page to say login error 
+8. Use placeholders for text inputs
+9. Append errors to display on page rather then having pop-ups
+10. Eye-friendly colors for pages that are consistent for whole website 
