@@ -20,6 +20,6 @@ B. Emotional design levels of your object:
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
-1.
-2.
-3.
+1. Adding different colors to things that are inportant would help direct users toward them
+2. Making sure the website usability meets all the needs of users by doing demo testing 
+3. Designing the site to make it reflect the technology aspect of IIT by making it seem advanced with working transations and JS
