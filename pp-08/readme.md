@@ -12,11 +12,11 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: The fact that the mouse can light up makes it able to attract the eye which can make people want it. The lights also help in letting you know that it is working so we don't have to think about if it is or not.
 
-* Behavioral:
+* Behavioral: The mouse is made with the edge a little don't so that is fits most hands and has a good feel because of it. Usability of the mouse is very good because you can change what each button does in accordence to your style. 
 
-* Reflective:
+* Reflective: Since the mouse colors can be changed to relect what the user wants it shows what they want to reflect, such as a favorite color. Also the mouse is considered a gaming mouse so to those in the gaming community it can be seen as a user taking gaming more seriously 
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
