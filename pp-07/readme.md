@@ -26,9 +26,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guidline One (URL):https://developer.apple.com/ios/human-interface-guidelines/ui-controls/buttons/
 * How you implemented it in your sketch:
-
+	Added verds to system button to log in
+	Would like infor buttons under announcements so they can click if they want to see more 
+	All titles are short 1-2 words
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
 
