@@ -31,8 +31,13 @@ Small commits to your Production Problems repository that include:
 	Added verds to system button to log in
 	Would like infor buttons under announcements so they can click if they want to see more 
 	All titles are short 1-2 words
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
 
-* HCI Guidline Three (URL):
+* HCI Guidline Two (URL):https://developer.apple.com/ios/human-interface-guidelines/visual-design/animation/
 * How you implemented it in your sketch:
+	Login and forgot un/pass light up 
+	Announcement buttons on click will have button expand and then have text slide down from button to create box ad upon clicking anywhere in box it will go back into button. 
+
+* HCI Guidline Three (URL):https://developer.apple.com/ios/human-interface-guidelines/interaction/3d-touch/
+* How you implemented it in your sketch:
+	Announcement buttons if hovered on or holding pressure show first couple items
+	Need help link if put pressure on explain what this page is for and says if you are new student to click the link to go to OTS page 
